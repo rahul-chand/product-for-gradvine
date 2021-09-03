@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run autolist.py
+web:sh setup.sh && streamlit run autolist.py
